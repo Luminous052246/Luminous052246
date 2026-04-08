@@ -1,4 +1,14 @@
 ## Hi there 👋
+This is my Github home page! I am a student of School of Intelligence Science and Technology, Nanjing University. I would like to share something about AI technology!
+
+### Learning Experience 
+- Currently I am studying in School of Intelligence Science and Technology, Nanjing University. 
+
+### Honors
+- NONE
+
+### Publications
+- NONE
 
 <!--
 **Luminous052246/Luminous052246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
