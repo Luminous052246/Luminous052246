@@ -12,6 +12,7 @@ This is my Github home page! I am a student of School of Intelligence Science an
 
 ### Projects
 - [math-solver](https://github.com/Luminous052246/math-solver)
+
 Exact, verifiable math solving with SymPy and Z3 — rules first, LLM only translates.
 
 <!--
