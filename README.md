@@ -11,7 +11,7 @@ This is my Github home page! I am a student of School of Intelligence Science an
 - NONE
 
 ### Projects
-- NONE
+### [math-solver](https://github.com/Luminous052246/math-solver)
 
 <!--
 **Luminous052246/Luminous052246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
